@@ -1,0 +1,21 @@
+# Quadcopter Frame Design (25 cm Constraint)
+
+## Objective
+Design a lightweight quadcopter frame within 25 cm size limit.
+
+## Design Approach
+- X-configuration for stability
+- Modular motor mounts (M3 screws)
+- Weight reduction using cut-outs
+
+## Tools Used
+- Fusion 360
+
+## Key Features
+- Compact geometry
+- Easy assembly
+- Lightweight structure
+
+## Future Improvements
+- FEA for stress validation
+- Vibration damping
