@@ -1,0 +1,31 @@
+# Knuckle Joint Assembly (Reverse Engineered)
+
+## Objective
+Recreate a knuckle joint assembly in CAD based on standard reference geometry to understand its construction and working.
+
+## Source
+Geometry inspired from standard machine design references and publicly available diagrams.
+
+## Components
+- Eye end
+- Fork end
+- Knuckle pin
+- Collar
+- Taper pin
+
+## What I Focused On
+- Accurate part relationships and assembly constraints
+- Understanding load transfer through the joint
+- Modeling realistic clearances for motion
+
+## Tools Used
+- Fusion 360
+
+## Learning Outcomes
+- Gained understanding of joint mechanics and degrees of freedom
+- Learned how to convert 2D reference geometry into 3D CAD models
+- Practiced assembly constraints and component interfacing
+
+## Future Work
+- Perform design calculations for pin diameter based on load
+- Validate using FEA
